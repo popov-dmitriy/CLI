@@ -1,0 +1,5 @@
+click
+requests
+
+for test_leaderboard:
+pytest
